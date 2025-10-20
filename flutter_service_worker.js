@@ -3,6 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
+<<<<<<< HEAD
 const RESOURCES = {".git/COMMIT_EDITMSG": "7010cabe6b22153a51888f764def2643",
 ".git/config": "2af6dfe1c5dcbfe19214f65abe0ee20f",
 ".git/description": "a0a7c3fff21f2aea3cfa1d0316dd816c",
@@ -85,6 +86,9 @@ const RESOURCES = {".git/COMMIT_EDITMSG": "7010cabe6b22153a51888f764def2643",
 ".git/refs/heads/main": "9b7a9b1754e9702bcacac4782c4cd04e",
 ".git/refs/remotes/origin/main": "9b7a9b1754e9702bcacac4782c4cd04e",
 "assets/AssetManifest.bin": "15141a3c0c4e0349cc02ffc7160de4fd",
+=======
+const RESOURCES = {"assets/AssetManifest.bin": "15141a3c0c4e0349cc02ffc7160de4fd",
+>>>>>>> 20b28a586a6da25434e970ca4bc6f6ebbc3ea208
 "assets/AssetManifest.bin.json": "ae893cb1529b01ca10929cc91e441ce6",
 "assets/AssetManifest.json": "a9c60b909ce9688e84a6db098b7760dc",
 "assets/assets/Calming_Ambient.m4a": "3e970d69ab34b35f2f5e4a8cc99db59d",
@@ -117,14 +121,22 @@ const RESOURCES = {".git/COMMIT_EDITMSG": "7010cabe6b22153a51888f764def2643",
 "canvaskit/skwasm_heavy.wasm": "8034ad26ba2485dab2fd49bdd786837b",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "flutter.js": "888483df48293866f9f41d3d9274a779",
+<<<<<<< HEAD
 "flutter_bootstrap.js": "e98e7fb1f150cb05cbfb8067b9abe203",
+=======
+"flutter_bootstrap.js": "13ca9eb25cea89ea8b4c57d102c9c7aa",
+>>>>>>> 20b28a586a6da25434e970ca4bc6f6ebbc3ea208
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
 "index.html": "6c50e1d83ad12cb508cfcac4e3401927",
 "/": "6c50e1d83ad12cb508cfcac4e3401927",
+<<<<<<< HEAD
 "main.dart.js": "0bfa3b42bcae70b194ce5d8437af23d8",
+=======
+"main.dart.js": "3cdde43fe6e9178a131ca87ebbffab0b",
+>>>>>>> 20b28a586a6da25434e970ca4bc6f6ebbc3ea208
 "manifest.json": "24cab26303d011feba6018e8b2c7b0a3",
 "version.json": "6471cbd63eb72a5a146190615ed1ada1"};
 // The application shell files that are downloaded before a service worker can
